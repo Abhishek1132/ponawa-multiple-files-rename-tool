@@ -1,6 +1,6 @@
 # Ponowa App
 
-Multiple Files Renaming Tool
+Multiple Files Renaming Tool - made using tkinter and os library.
 
 ## How to run
 
